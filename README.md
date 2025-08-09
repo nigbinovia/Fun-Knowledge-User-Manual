@@ -1,5 +1,5 @@
 # Fun Knowledge User Manual
-This web application is our modern approach to transforming how kindergarten students take tests. 
+This web application is a modern approach to transforming how kindergarten students take tests. 
 
 Built to replace traditional paper-based assessments, this web application provides a smooth, stress-free, and tech-friendly testing experience for both students and teachers.
 
